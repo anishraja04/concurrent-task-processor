@@ -32,3 +32,7 @@ A high-performance, multithreaded task processing engine built in Java. It execu
    ```bash
    mvn exec:java -Dexec.mainClass="com.anish.taskprocessor.Main"
    ```
+
+
+## Community
+Contributions are always welcome. See CONTRIBUTING.md for details.
